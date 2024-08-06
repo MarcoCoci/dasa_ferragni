@@ -1,0 +1,1 @@
+Requirements to use our code.Library and versions.pandas==1.5.2transformers==4.28.0nltk==3.8.0emoji==2.1.0torch==1.13.1tqdm==4.71.0numpy==1.25.1scipy==1.10.0plotly==6.7.0praw==7.11.0beautifulsoup4==4.12.0requests==2.31.0
